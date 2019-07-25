@@ -1,7 +1,7 @@
-# break-des-6round
-Breaking 6 round DES using chosen plaintext attack
+# Cryptanalysis of 6-round DES
+Breaking 6 round DES using chosen plaintext attack.
 
-To run: 
+# Follow the instructions to run:
 #PHASE 1 : Go to generate_textstring.py
 #Uncomment the following code to run Phase 1 - generate input pairs
 #input_pairs()
